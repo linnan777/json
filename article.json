@@ -1,9 +1,11 @@
 {
     "err":0,
     "result":{
-        "data":{"open":"1"},
+        "data":{
+            "open":"1"
+        },
         "host":"",
-        "web" :"https://www.baidu.com",
+        "web":"https://www.baidu.com",
         "total":"1050",
         "pageNo":1,
         "pageSize":20
